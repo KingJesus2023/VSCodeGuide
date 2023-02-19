@@ -7,5 +7,7 @@
     "[python]": {
         "editor.wordBasedSuggestions": false,
         "editor.formatOnSave": false
-    }
+    },
+    "files.autoSave": "afterDelay",
+    "C_Cpp.errorSquiggles": "enabled"
 }
